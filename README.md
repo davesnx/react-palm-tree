@@ -1,4 +1,4 @@
-# solid-palm-tree
+# react-palm-tree
 
 Example of a Melange project using opam with Fetch and Json decoding
 
