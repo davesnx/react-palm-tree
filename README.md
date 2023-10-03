@@ -1,4 +1,8 @@
-# melange-opam-template
+# solid-palm-tree
+
+Example of a Melange project using opam with Fetch and Json decoding
+
+---
 
 A simple project template using [Melange](https://github.com/melange-re/melange)
 with [opam](https://opam.ocaml.org/).

@@ -32,9 +32,6 @@ let make = () => {
   React.useEffect0(() => {
     open Js.Promise;
     send(DogsFetch);
-
-    Js.log("TWIIIIICE");
-
     Fetch.fetch("https://dog.ceo/api/breeds/list")
     |> then_(Fetch.Response.json)
     |> then_(json =>
