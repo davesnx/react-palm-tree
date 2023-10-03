@@ -1,0 +1,6 @@
+(library
+ (name fetch)
+ (modes melange)
+ (libraries melange.js)
+ (preprocess
+  (pps melange.ppx)))

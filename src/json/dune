@@ -1,0 +1,6 @@
+(library
+ (name json)
+ (modes melange)
+ (libraries melange.js)
+ (preprocess
+  (pps melange.ppx)))
